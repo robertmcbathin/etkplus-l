@@ -3,7 +3,7 @@
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, p, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Helvetica Neue","Open Sans",Arial,sans-serif;
+  font-family: "Exo 2","Open Sans",Arial,sans-serif;
 }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4 {
@@ -366,7 +366,7 @@ body > .navbar-collapse a {
   margin: 5px 0px;
   padding: 20px 15px;
   font-size: 20px;
-  font-family: "Slim-Joe";
+  font-family: "Exo 2";
   letter-spacing: 0;
 }
 .navbar .navbar-nav > li > a {
@@ -1642,7 +1642,7 @@ body {
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .navbar, .brand, .btn-simple, a, .td-name, td {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
-  font-family: "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Exo 2", "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 h1, .h1 {
@@ -1687,7 +1687,7 @@ p,
 label,
 .form-control,
 .title h5 {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Exo 2", "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -1925,7 +1925,7 @@ a:hover {
 .btn {
   border-radius: 2px;
   border-width: 1px;
-  font-family: "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Exo 2", "Verlag-Book","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-weight: 600;
   line-height: 1;
 }
@@ -2407,11 +2407,10 @@ a.carousel-control span.fa {
   transform: translateY(-50%);
 }
 .section-header h1 {
-  letter-spacing: 0.1em;
-  font-weight: 100;
+  font-weight: 500;
   font-size: 6em;
-  font-family: "Slim-Joe";
-  text-transform: uppercase;
+  font-family: "Exo 2", "Slim-Joe";
+  letter-spacing: 5px;
   text-shadow: -2px 2px 0px rgba(0, 0, 0, 0.3), -2px 4px 2px rgba(0, 0, 0, 0.1);
 }
 .section-header h5 {
@@ -2420,7 +2419,7 @@ a.carousel-control span.fa {
   line-height: 1.5;
   letter-spacing: 0.125;
   text-shadow: 0px 0px 1px rgba(0, 0, 0, 0.5);
-  font-family: 'Droid Serif',"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: "Exo 2", 'Droid Serif',"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 .section-header p {
   letter-spacing: 0.1em;
@@ -3402,7 +3401,7 @@ body.noscroll {
 .section-numbers-1 .number, .section-numbers-2 .number, .section-numbers-3 .number {
   font-size: 40px;
   color: #c5a47e;
-  font-family: "Slim-Joe", "Helvetica Neue", "Arial";
+  font-family: "Exo 2", "Slim-Joe", "Helvetica Neue", "Arial";
   font-weight: 400;
 }
 .section-numbers-1 .description, .section-numbers-2 .description, .section-numbers-3 .description {
@@ -3444,7 +3443,7 @@ body.noscroll {
   background-color: transparent;
 }
 .section-numbers-2 .card h5, .section-numbers-3 .card h5 {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Exo 2","Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1em;
 }
 
@@ -3558,7 +3557,7 @@ body.noscroll {
 .footer a:not(.btn-social),
 .footer .copyright {
   font-size: 14px;
-  font-family: 'Droid Serif', "Helvetica Neue", "Helvetica","Arial";
+  font-family:"Exo 2", 'Droid Serif', "Helvetica Neue", "Helvetica","Arial";
 }
 .footer .btn-social {
   color: #9A9A9A;
